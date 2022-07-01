@@ -1,4 +1,3 @@
-Date created - 5th May 2021
 
 Bikeshare Data Exploration 
 
